@@ -9,4 +9,5 @@ allowfullscreen></iframe>
 
 ## Supplementary Resources
 [Click here to view the note](cs698_hw_notes_christina.pdf)
+
 [Click here to view the slides](cs698_hw_slides_christina.pdf)
