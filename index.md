@@ -1,11 +1,9 @@
 # CS698 Assignment - Christina Shin
 
 ## Teaching Video
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
-title="Video lecture"
-frameborder="0"
-allowfullscreen></iframe>
+<video width="800" controls>
+  <source src="assets/cs698_hw_video_christina.mp4" type="video/mp4">
+</video>
 
 ## Supplementary Resources
 [Click here to view the note](cs698_hw_notes_christina.pdf)
