@@ -2,7 +2,7 @@
 
 ## Teaching Video
 <video width="800" controls>
-  <source src="assets/cs698_hw_video_christina.mp4" type="video/mp4">
+  <source src="cs698_hw_video_christina.mp4" type="video/mp4">
 </video>
 
 ## Supplementary Resources
